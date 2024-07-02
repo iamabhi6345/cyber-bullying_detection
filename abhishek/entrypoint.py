@@ -9,3 +9,4 @@ def entrypoint(config: Config) -> None:
 
 if __name__ == "__main__":
     entrypoint()  # type: ignore
+    
